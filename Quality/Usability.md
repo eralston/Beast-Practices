@@ -6,7 +6,7 @@ It is best when building a product to consistently reference this list and build
 
 ## Usability Principles
 ---
-The following areas describe the criteria for good Usability at Soundbite.
+The following areas describe the criteria for good Usability.
 
 **Visibility of system status.** Users should always be informed of system operations with easy to understand and highly visible status displayed on the screen within a reasonable amount of time.
 

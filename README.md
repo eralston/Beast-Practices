@@ -1,6 +1,11 @@
 # Beast-Practices
 A TOTALLY BEAST set of Best Practices not meant to be taken too seriously
 
+The markdown was originally made for Azure DevOps-style formatting.
+
+## Authors
+Originally written by Erik Ralston, Kellan Corbitt, Chet Mitchell, Miyuki Gimera, and Liz Cole.
+
 ## License
 These best practices are intended to be shared and improved.
 

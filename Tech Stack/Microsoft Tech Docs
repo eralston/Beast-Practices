@@ -1,0 +1,34 @@
+This article describes key technical areas where Microsoft provides key technologies for our system and bookmarks to documentation relevant to them.
+
+# [.Net Core](https://dotnet.microsoft.com/)
+---
+These are foundational concepts in .Net Core.
+- [.Net Core Docs](https://docs.microsoft.com/en-us/dotnet/core/)
+- [.Net Core on GitHub](https://github.com/dotnet/core)
+
+# [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
+---
+Foundational concepts in the data persistence library of .Net Core, including LINQ.
+- [LINQPad for EF Core](https://www.linqpad.net/EntityFramework.aspx)
+
+# [ASP.Net Core](https://dotnet.microsoft.com/apps/aspnet)
+---
+Resources for understanding the web framework of .Net Core.
+- [ASP.Net Core Docs](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)
+
+# [NuGet Packages](https://www.nuget.org/)
+---
+Resources for any key NuGet packages used in the project.
+- [Microsoft.Identity.Web](https://www.nuget.org/packages/Microsoft.Identity.Web/0.2.0-preview) - Foundational library for identity in .Net Core that tries to not tied .Net Core so deeply to homogenous Microsoft solutions
+- [Microsoft.AspNetCore.Authentication.AzureAD.UI](https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication.AzureAD.UI/3.1.6?_src=template) - Library for connecting Azure AD to ASPDotNet services, including 
+
+# [Microsoft Graph](https://developer.microsoft.com/en-us/graph)
+---
+MS Graph provides the backbone of information and operations across the entire suite of Microsoft SaaS services, including O365 and Teams.
+- [Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
+- [Web API Calling Graph on Behalf of SPA Example on GitHub](https://github.com/Azure-Samples/active-directory-dotnet-native-aspnetcore-v2/tree/master/2.%20Web%20API%20now%20calls%20Microsoft%20Graph)
+
+# [Azure](https://azure.microsoft.com/en-us/)
+---
+Azure is Microsoft's cloud hosting service
+- [Azure Docs](https://docs.microsoft.com/en-us/azure/?product=featured)
